@@ -10,3 +10,9 @@ const nextConfig = {
   output: 'export'
 }
 module.exports = withNextra(nextConfig)
+module.exports = module.exports = {
+  images: {
+    loader: 'akamai',
+    path: '',
+  }
+}
