@@ -4,16 +4,16 @@
         <description><![CDATA[Your Name]]></description>
         <link>https://langensiepen.dev</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 24 May 2023 17:28:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 19:01:24 GMT</lastBuildDate>
         <atom:link href="https://langensiepen.dev/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Eigener Beitrag]]></title>
-            <description><![CDATA[Ein kurzer Testbeitrag]]></description>
-            <link>/posts/test</link>
-            <guid isPermaLink="true">/posts/test</guid>
-            <category><![CDATA[Inhalte]]></category>
-            <dc:creator><![CDATA[Amos]]></dc:creator>
-            <pubDate>Mon, 08 May 2023 22:00:00 GMT</pubDate>
+            <title><![CDATA[Next.js Pages]]></title>
+            <description><![CDATA[Learn more about Next.js pages.]]></description>
+            <link>/posts/pages</link>
+            <guid isPermaLink="true">/posts/pages</guid>
+            <category><![CDATA[web development]]></category>
+            <dc:creator><![CDATA[Default]]></dc:creator>
+            <pubDate>Sun, 07 May 2023 22:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Markdown Examples]]></title>
@@ -25,13 +25,13 @@
             <pubDate>Sun, 07 May 2023 22:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Next.js Pages]]></title>
-            <description><![CDATA[Learn more about Next.js pages.]]></description>
-            <link>/posts/pages</link>
-            <guid isPermaLink="true">/posts/pages</guid>
-            <category><![CDATA[web development]]></category>
-            <dc:creator><![CDATA[Default]]></dc:creator>
-            <pubDate>Sun, 07 May 2023 22:00:00 GMT</pubDate>
+            <title><![CDATA[Eigener Beitrag]]></title>
+            <description><![CDATA[Ein kurzer Testbeitrag]]></description>
+            <link>/posts/test</link>
+            <guid isPermaLink="true">/posts/test</guid>
+            <category><![CDATA[Inhalte]]></category>
+            <dc:creator><![CDATA[Amos]]></dc:creator>
+            <pubDate>Mon, 08 May 2023 22:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
